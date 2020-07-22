@@ -1,0 +1,19 @@
+{
+  "name": "powerform-react",
+  "version": "1.0.0",
+  "description": "Powerform hook for react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "powerform",
+    "form",
+    "react"
+  ],
+  "author": "ludbek",
+  "license": "MIT",
+  "dependencies": {
+    "powerform": "^4.0.0"
+  }
+}
