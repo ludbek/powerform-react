@@ -1,5 +1,5 @@
 # powerform-react
-A react hook for [powerform](https://github.com/ludbek/powerform)
+A React hook for [powerform](https://github.com/ludbek/powerform)
 
 ## [Demo](https://codesandbox.io/s/powerform-react-17gqu)
 
